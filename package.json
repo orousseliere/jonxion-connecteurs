@@ -1,0 +1,7 @@
+{
+  "name": "jonxion-connecteurs-phase5",
+  "version": "1.0.0",
+  "description": "Phase 5 - Protocoles êmergents",
+  "main": "src/index.ts",
+  "type": "module"
+}
